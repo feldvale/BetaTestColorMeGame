@@ -1,0 +1,38 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+Platform assembly: C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Samuel\Documents\ColorMe\launcher_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.045141 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.348095 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.257864 ms (FindLiveObjects: 0.046612 ms CreateObjectMapping: 0.015394 ms MarkObjects: 0.190297 ms  DeleteObjects: 0.004703 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.749559 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 553.
+Total: 0.419938 ms (FindLiveObjects: 0.044474 ms CreateObjectMapping: 0.025230 ms MarkObjects: 0.311318 ms  DeleteObjects: 0.038487 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1aa4 -> priority: 1 
